@@ -2,7 +2,7 @@
   "name": "Time to Manteo",
   "short_name": "Manteo",
   "description": "Second home purchase timeline calculator",
-  "start_url": "/",
+  "start_url": "/manteo-calculator/",
   "display": "standalone",
   "background_color": "#f5f0e8",
   "theme_color": "#1a3a4a",
